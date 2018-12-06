@@ -1,0 +1,420 @@
+Enter:/home/pdio/pc_vas
+Script:monitor.sh
+Author:Wei Fei
+11054
+cat: /proc/11054: Is a directory
+cat: 12581/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12581/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12610/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12826/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12826/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 12826/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13086/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13471/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 13663/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 32254/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 32254/status: No such file or directory
+cat: /proc/11054: Is a directory
+cat: 32254/status: No such file or directory
+cat: /proc/5617: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5617: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5617: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5617: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5846: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5846: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5846: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/5846: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/6126: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/6126: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/6126: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 6789: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 6789: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/6269: Is a directory
+cat: 6270: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 8632: No such file or directory
+cat: 8633: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 8632: No such file or directory
+cat: 8633: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8488: Is a directory
+cat: 8632: No such file or directory
+cat: 8633: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8721: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8632: Is a directory
+cat: 8633: No such file or directory
+cat: 8929: No such file or directory
+cat: 11054/status: No such file or directory
+cat: /proc/8929: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/9179: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10386: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10386: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
+cat: /proc/10968: Is a directory
+cat: 11054/status: No such file or directory
