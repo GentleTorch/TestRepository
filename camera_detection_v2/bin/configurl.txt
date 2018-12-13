@@ -1,0 +1,1 @@
+https://192.168.100.88:8089/pdio_collect/iansConfig/query

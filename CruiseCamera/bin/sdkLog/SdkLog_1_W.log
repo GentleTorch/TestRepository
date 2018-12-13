@@ -1,0 +1,9 @@
+[2018-12-13 09:27:59.982][INF] The COM:Core ver is 5.3.5.2, 2017_11_24. Async:1.
+[2018-12-13 09:27:59.982][INF] This hcnetsdk ver is 5.3.5.2 Ver 2017_11_24.
+[2018-12-13 09:27:59.982][INF] login dev 192.168.100.64:8000.
+[2018-12-13 09:28:00.491][INF] Private connect 192.168.100.64:8000 sock=37 this=0x1a050a4 cmd=0x10000 port=40240
+[2018-12-13 09:28:00.491][INF] LogonDev1 in[192.168.100.64:8000]
+[2018-12-13 09:28:03.049][INF] AbilityAnalyze---Init-- start
+[2018-12-13 09:28:03.285][DBG] AbilityAnalyze---Init-- over, DeviceList path [/home/ailab/Downloads/CruiseCamera/bin/libs/HCNetSDKCom/LocalXml/DeviceList.xml], load result[0]
+[2018-12-13 09:28:03.285][INF] The COM:Preview ver is 5.3.5.2, 2017_11_24.
+[2018-12-13 09:28:03.291][INF] Private connect 192.168.100.64:8000 sock=37 this=0x1a050a4 cmd=0x30200 port=40242

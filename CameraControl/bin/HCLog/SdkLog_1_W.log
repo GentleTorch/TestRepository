@@ -1,0 +1,14 @@
+[2018-12-13 15:22:08.720][INF] The COM:Core ver is 5.3.5.2, 2017_11_24. Async:1.
+[2018-12-13 15:22:08.720][INF] This hcnetsdk ver is 5.3.5.2 Ver 2017_11_24.
+[2018-12-13 15:22:08.720][INF] login dev 192.168.100.64:8000.
+[2018-12-13 15:22:09.188][INF] Private connect 192.168.100.64:8000 sock=41 this=0x7c36c284 cmd=0x10000 port=54684
+[2018-12-13 15:22:09.188][INF] LogonDev1 in[192.168.100.64:8000]
+[2018-12-13 15:22:09.223][INF] AbilityAnalyze---Init-- start
+[2018-12-13 15:22:09.463][DBG] AbilityAnalyze---Init-- over, DeviceList path [/home/ailab/Downloads/CameraControl/bin/libs/HCNetSDKCom/LocalXml/DeviceList.xml], load result[0]
+[2018-12-13 15:22:09.463][INF] The COM:Preview ver is 5.3.5.2, 2017_11_24.
+[2018-12-13 15:22:09.464][INF] Private connect 192.168.100.64:8000 sock=41 this=0x7c36c284 cmd=0x30200 port=54686
+[2018-12-13 15:22:09.468][INF] Private connect 192.168.100.64:8000 sock=41 this=0x7c36c284 cmd=0x10100 port=54688
+[2018-12-13 15:22:09.470][INF] CTransUnitMgr::UnloadTransUnitLib
+[2018-12-13 15:22:09.721][ERR] CEzvizTrans::UnloadSSLLib failed
+[2018-12-13 15:22:09.721][INF] CSSLTrans::UnloadSSLLib, Lib Not Load
+[2018-12-13 15:22:09.721][INF] Libiconv, Lib Not Load.
